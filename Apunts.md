@@ -45,7 +45,7 @@ Els tipos de proves que hi ha són:
 #### Proves Funcionals 
 Les diferents proves funcionals son:
 - Proves unitaries: Les proves unitaries consisteix en apartar una part del codi i comprovar que funcioni tot correctament.
-- Proves de regresió: le sproves de regresió es fan cada vegada que es canvia de sistema per afegir millores o solucionar errors. 
+- Proves de regresió: les proves de regresió es fan cada vegada que es canvia de sistema per afegir millores o solucionar errors. 
 - Proves de integració: Es realitzan per comprovar com els moduls que funcionan de forma individual funcionan cuan esta tot integrat en el mateix codi. 
 - Proves de fum: Les proves de fum es una revisió rapida del software per comprovar que tot funcioni correctament i no hi hagi ningún error evident. 
 - Proves del sistema: Te el objectiu de verificar que el software s'ha integrat correctament al sistema. 
