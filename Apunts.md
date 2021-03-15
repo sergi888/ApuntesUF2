@@ -105,3 +105,27 @@ Les operacións del producte pasen per unes fasse que son:
     - Reusabilitat: es per exemples que si algu et dona el programa tu puguis donar-li a algu mes per que l'utilitzi i aquet altre lo mateix es a dir que no sigui nomes d'un us. 
     - Interoperativitat: Que sigui facil intercanviar la informació i utilitzar facilment la informació intercanviada 
 
+#### Optimització 
+Dins de la optimització hi han 4 formes diferents de fer-la que són: 
+- Hediondez del codi: Significa codi basura i son errors en el codi que no impedeixen que el programa funcioni correctament pero donen problemes igualment. I si el deixem sense reparar al futur hi ha el risc de que falli el programa. 
+- Analisis del codi: Dins del analisis del codi hi han dos tipus diferents el dinamic i el analisis estatic: En el analisis estatic es sol utilitzar normalment analitzadors estatics que serian lo que es diu linters i també mitjançant llocs web per inspecciónar el codi. 
+- Continuous Inspection o Continuous Analysis: Son llocs web que ofereixen una inspecció de codi per exemple: Scrutinizer i SonarQube. 
+- Refactorització: La Refactorització es quan  modifiques el teu codi per fer-lo mes eficient sense canviar el seu funcionament.
+#### Documentació 
+Dins de la Documentació hi ha tres tipus de documentació que són:
+- Documentació de codi: Es el tipus de documentació en la que documentas el codi per exemple amb el javadoc per a que es digui el funcionament de cada metode que tens implementar.  
+- Documentació Tecnica: La documentació tecnica es el tipus de documentació en la que explica tota la informació necessaria per al funcionament de algun programa o maquinaria.  
+- Documentació d'usuari: Es la documentació que explica al usuari com funciona tot correctament, explicat d'una forma en la que el usuari oh pugui entrendre.
+##### Formats de Documentació 
+hi han diferents tipus de formats que són: 
+- HTML (Javadoc)
+- Markdown (Gitbook)
+- reStruturedText (Readthedocs)
+- asciiDoc
+#### Control de Versións 
+Els sistemes mes Coneguts són:
+- CVS: Es un sistema que mante el registre de tot el treball realitzat i els canvis que s'implementan en un projecte. 
+- Subversion: Es un sistema de control de versió dissenyat per a remplaçar el sistema CVS 
+- Mercurial: Es un sistema de control de versions, que te la caracteristica de pode portar la gestio de versions de forma descentralitzada.
+- Git: Git és un programari de sistemes de control de vesions que esta dissenyat pensat en la seva eficiencia per al manteniment de versions d'aplicacións amb una gran quantitat de fitxer de codi font. 
+
